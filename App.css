@@ -31,7 +31,19 @@ body {
   font-size: 16px;
   margin: 5px 0;
 }
+.preview-section.light {
+  background-color: white;
+  color: black;
+}
 
+.preview-section.dark {
+  background-color: #1e1e1e;
+  color: white;
+}
+
+.preview-section.blue {
+  background-color: #e3f2fd;
+  color: #0d47a1;
 input, textarea {
   width: 95%;
   padding: 10px;
